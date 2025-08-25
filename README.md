@@ -1,4 +1,4 @@
-# 🏫 School Management System
+# 🏫 EduAdminPro
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/H0NEYP0T-466/School_Management_System.svg)](https://github.com/H0NEYP0T-466/School_Management_System/stargazers)
